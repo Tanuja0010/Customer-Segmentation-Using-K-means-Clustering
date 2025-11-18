@@ -148,10 +148,9 @@ Technical Achievements
 Silhouette score > 0.55
 Scalable to 10,000+ users
 Intuitive UI
-
 Multiple clustering modes
-Conclusion
 
+Conclusion
 The system:
 Applies ML clustering effectively
 Provides real-time visualization
@@ -194,5 +193,5 @@ UCI Repository
  Contributors
 Purva Thombare
 Tanuja Birajdar
-
 Shruti Malkar
+
