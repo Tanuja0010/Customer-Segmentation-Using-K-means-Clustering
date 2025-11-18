@@ -1,3 +1,4 @@
+Title:Customer Segmentation Using K-means Clustering
  Customer Segmentation Analysis
  Project Overview
 
@@ -193,4 +194,5 @@ UCI Repository
  Contributors
 Purva Thombare
 Tanuja Birajdar
+
 Shruti Malkar
